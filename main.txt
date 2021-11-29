@@ -1,7 +1,4 @@
 Fills the room even though it's not the weekend
 They do not sell a ticket because they are of the lot
-<<<<<<< HEAD
 Your face on Spotify and I on gig in Japan
-=======
 When I go to the USA I sell everything in New York
->>>>>>> c5af7a4729eaee7f2fc9a9d103046f222aa0d57a
